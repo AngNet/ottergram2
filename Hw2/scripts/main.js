@@ -76,5 +76,5 @@ function showSlides(n) {
   }
 
   event.preventDefault();
-  setDetailsFromThumb(thumbnailArray[slideIndex-1]);
+  setDetailsFromThumb(thumbnailArray[slideIndex - 1]);
 }
